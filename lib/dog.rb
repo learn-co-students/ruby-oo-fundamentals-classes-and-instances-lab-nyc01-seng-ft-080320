@@ -1,0 +1,9 @@
+class Dog
+    # some code later on
+end
+
+fido = Dog.new
+
+snoopy = Dog.new
+
+lassie =  Dog.new

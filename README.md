@@ -1,3 +1,5 @@
+Madeline Stalter
+
 
 # Classes And Instances Lab Ruby
 
